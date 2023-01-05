@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Elementary Learners\' Aid</string>
+    <string name="welcome">Welcome!</string>
+    <string name="instruction">Choose Your Player Name</string>
+    <string name="name_tag">Name</string>
+    <string name="proceed_tag">Proceed</string>
+    <string name="description">Learn the Alphabets</string>
+    <string name="back_button">Back</string>
+    <string name="greeting">Hello, </string>
+</resources>
